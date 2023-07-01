@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@noble/curves": "^1.1.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "ethereum-cryptography": "^2.0.0",
+    "express": "^4.18.1",
+    "scrypt-js": "^3.0.1",
+    "scrypt.js": "^0.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
